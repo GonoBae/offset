@@ -1,0 +1,36 @@
+# Unreal Engine: generated project build output and local caches
+/unreal/offset/Binaries/
+/unreal/offset/DerivedDataCache/
+/unreal/offset/Intermediate/
+/unreal/offset/Saved/
+
+# Generated plugin caches (keep plugin Binaries for binary-only plugins)
+/unreal/offset/Plugins/**/Intermediate/
+/unreal/offset/Plugins/**/DerivedDataCache/
+/unreal/offset/Plugins/**/Saved/
+
+# IDE caches and generated solution/project files
+.vs/
+.idea/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.csproj
+*.csproj.user
+*.code-workspace
+*.xcodeproj/
+*.xcworkspace/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Keep project sources and assets: Config/, Content/, Source/, Build/,
+# *.uproject, *.uplugin, and .vsconfig belong in version control.
