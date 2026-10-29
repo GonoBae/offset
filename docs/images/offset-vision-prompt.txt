@@ -1,0 +1,16 @@
+OFFSET README concept image
+Created: 2026-10-29
+Mode: built-in image_gen tool; new image generation
+Asset: offset-vision.png
+Purpose: future project vision; not a gameplay screenshot or final design
+
+Final prompt:
+Use case: stylized-concept
+Asset type: wide hero image for the GitHub README of OFFSET, an Unreal Engine single-player first-person movement and combat portfolio project.
+Primary request: visualize the project's intended final experience: grounded physical movement and parkour leading through a compact combat mission. This is future-vision concept art, not a screenshot of the current prototype.
+Scene/backdrop: a compact concrete and steel industrial mission environment with a clear playable route: a waist-high barrier in the foreground, a reachable raised ledge and catwalk beyond it, and cover leading toward a lit doorway. The layout should feel intentionally traversable, with plausible human-scale distances.
+Subject: one athletic adult male soldier, approximately 180 cm and 80 kg with moderate functional muscle, in practical contemporary tactical clothing and gloves, seen from behind and at three-quarter angle in a believable vault over the low barrier. A securely slung compact rifle suggests the later combat part of the mission. Only one character.
+Style/medium: polished environment and character concept illustration, realistic proportions, cinematic but legible, subtly painterly high-end game development concept art.
+Composition/framing: wide landscape banner, approximately 16:9; clearly readable silhouette and route; balanced environment depth; enough detail to communicate traversal and grounded combat without a cluttered collage.
+Lighting/mood: soft cool daylight with restrained warm light at the mission doorway, readable concrete textures and natural shadows.
+Constraints: no HUD, no fake gameplay UI, no text, no logos or watermarks, no national or faction insignia, no blood or gore, no futuristic superpowers, no wall-running, no explosions, no oversized open-world vista. Do not imply this is a shipped game or actual Unreal gameplay capture.
